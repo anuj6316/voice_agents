@@ -1,0 +1,130 @@
+[13:01:57] GEMINI:
+Hello Nush Kumar. It's great to meet you.
+
+Thank you for that introduction. It sounds like you have a solid background in AI and ML.
+
+Could you elaborate a bit more on a specific NLP or computer vision project that you're most proud of, and what your role was in it?
+[13:02:05] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Speaker1",
+    "text": "सर"
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "Hola, soy Anuj Kumar, un entusiasta de la inteligencia artificial y el aprendizaje automático. Mi formación en estas áreas, junto con mi experiencia en proyectos de PNL y visión por computadora, me ha preparado para afrontar nuevos desafíos. ¿Qué más desean saber sobre mí?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "0:00",
+    "description": "Brief audio artifact at the start of the recording."
+  },
+  {
+    "timestamp": "0:01",
+    "description": "Brief audio artifact/static."
+  },
+  {
+    "timestamp": "0:19",
+    "description": "Brief audio artifact/static at the end of the recording."
+  }
+]
+============================================================
+
+[13:03:09] GEMINI:
+That's a very interesting project. Sentiment analysis for movie recommendations is a classic and valuable application of NLP.
+
+How did you evaluate the performance of your sentiment analysis model?
+[13:03:19] TRANSCRIPTION:
+
+============================================================
+AI: Hello Nush Kumar. It's great to meet you.
+
+Thank you for that introduction. It sounds like you have a solid background in AI and ML.
+
+Could you elaborate a bit more on a specific NLP or computer vision project that you're most proud of, and what your role was in it?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Speaker1",
+    "text": "Ahora otra pregunta."
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "Por supuesto, un proyecto interesante fue el desarrollo de un sistema de recomendación de películas basado en el análisis de sentimientos de las críticas de usuarios. Utilicé técnicas de PNL para clasificar los comentarios en positivos, negativos o neutrales. Y así poder decir la calificación final de la película. Mi rol fue liderar el preprocesamiento de los datos de texto y el desarrollo del modelo de clasificación. ¿Qué opinas sobre este tipo de proyectos?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Prominent background humming/buzzing sound at the beginning (0:00-0:08) and a faint one at the end (0:40-0:41) of the audio."
+  }
+]
+============================================================
+
+[13:04:04] GEMINI:
+Okay, those are indeed standard and important metrics. Can you tell me about a specific scenario where you might prioritize recall over precision, and why?
+[13:04:14] TRANSCRIPTION:
+
+============================================================
+AI: That's a very interesting project. Sentiment analysis for movie recommendations is a classic and valuable application of NLP.
+
+How did you evaluate the performance of your sentiment analysis model?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Speaker1",
+    "timestamp": "00:00:05",
+    "text": "Okay, answer the question."
+  },
+  {
+    "speaker": "Speaker2",
+    "timestamp": "00:00:10",
+    "text": "Evalué principalmente utilizando métricas como la exactitud, la precisión, la recuperación y el F1 score. También creé una matriz de confusión para visualizar el desempeño del modelo en cada clase. ¿Qué opinas sobre estas métricas?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00:00 - 00:00:32",
+    "description": "Consistent low hum/fan noise throughout the audio."
+  },
+  {
+    "timestamp": "00:00:31",
+    "description": "Abrupt audio artifact/glitch at the end."
+  }
+]
+============================================================
+
+[13:04:48] TRANSCRIPTION:
+
+============================================================
+AI: Okay, those are indeed standard and important metrics. Can you tell me about a specific scenario where you might prioritize recall over precision, and why?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Speaker1",
+    "text": "Un escenario sería en la detección de enfermedades graves, como el cáncer. En este caso, es preferible tener más falsos positivos que puedan requerir una segunda prueba,"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Persistent background humming/buzzing noise throughout the audio."
+  }
+]
+============================================================
+

@@ -1,0 +1,187 @@
+[12:44:35] GEMINI:
+Yes, I can hear you clearly. Welcome!
+
+Let's begin. Could you please introduce yourself and tell me a bit about your background and what motivated you to apply for this AI/ML intern position?
+[12:45:14] GEMINI:
+Great, I can hear you clearly. Thank you for confirming.
+
+Let's begin. To start, could you please tell me a little bit about yourself and what specifically interests you in an AI/ML internship?
+[12:45:20] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Alex",
+    "text": "Hello, 1 2 3, mic check. Can you able to hear me? Can you confirm that?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Loud static/hum noise at the beginning and persisting throughout the audio."
+  }
+]
+============================================================
+
+[12:46:12] GEMINI:
+That's a good question. We work on a range of interesting projects here. Can you tell me about a specific AI/ML project you've worked on, either academic or personal, that you're particularly proud of?
+[12:46:22] TRANSCRIPTION:
+
+============================================================
+AI: Great, I can hear you clearly. Thank you for confirming.
+
+Let's begin. To start, could you please tell me a little bit about yourself and what specifically interests you in an AI/ML internship?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Alex",
+    "timestamp": "00:15",
+    "text": "What interests you in the AI/ML internship?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00 - 00:14",
+    "description": "Continuous machinery or fan noise, with distant unclear speech"
+  },
+  {
+    "timestamp": "00:18 - 00:20",
+    "description": "Brief audio artifact or system sound"
+  },
+  {
+    "timestamp": "00:20 - 00:29",
+    "description": "External AI prompt in Spanish: Me interesa porque podré aplicar mis conocimientos de AI, ML en proyectos reales que generen un impacto. ¿Qué tipo de proyectos tienen en mente?"
+  },
+  {
+    "timestamp": "00:30 - 00:34",
+    "description": "Continuous machinery or fan noise"
+  }
+]
+============================================================
+
+[12:47:12] GEMINI:
+That sounds like a very relevant project. Could you elaborate on the specific unsupervised learning model you used and why you chose it over other approaches for time series anomaly detection?
+[12:47:23] TRANSCRIPTION:
+
+============================================================
+AI: That's a good question. We work on a range of interesting projects here. Can you tell me about a specific AI/ML project you've worked on, either academic or personal, that you're particularly proud of?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  Por supuesto. Un proyecto interesante fue el desarrollo de un sistema de recomendación para la detección de anomalías en series de tiempo. Implementé un modelo de aprendizaje no supervisado que logró una alta precisión en la identificación de patrones atípicos. Les gustaría saber más sobre la arquitectura del modelo?
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "text": "Por supuesto. Un proyecto interesante fue el desarrollo de un sistema de recomendación para la detección de anomalías en series de tiempo. Implementé un modelo de aprendizaje no supervisado que logró una alta precisión en la identificación de patrones atípicos. Les gustaría saber más sobre la arquitectura del modelo?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Background noise present at the beginning of the recording (around 00:00)."
+  },
+  {
+    "description": "Long pause/silence after the candidate's speech (from 00:22 to 00:35)."
+  }
+]
+============================================================
+
+[12:47:57] GEMINI:
+Hello, welcome! Let's start with a foundational question. Can you explain the difference between artificial intelligence, machine learning, and deep learning?
+[12:48:09] TRANSCRIPTION:
+
+============================================================
+AI: That sounds like a very relevant project. Could you elaborate on the specific unsupervised learning model you used and why you chose it over other approaches for time series anomaly detection?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  कुछ अलग
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "text": "कुछ अलग"
+  },
+  {
+    "speaker": "Alex",
+    "text": "क्या और क्या प्रश्न है?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00-00:05",
+    "description": "Ambient background noise and audio artifacts."
+  },
+  {
+    "timestamp": "00:05-00:15",
+    "description": "Child's voice repeatedly calling 'मम्मी' in the background."
+  },
+  {
+    "timestamp": "00:16-00:17",
+    "description": "Background noise present during candidate's utterance."
+  },
+  {
+    "timestamp": "00:18-00:20",
+    "description": "General background noise."
+  },
+  {
+    "timestamp": "00:23-00:25",
+    "description": "General background noise after Alex's question."
+  }
+]
+============================================================
+
+[12:48:42] GEMINI:
+That was a clear explanation. Now, to dive a bit deeper, could you tell me about a recent AI or ML project that truly captured your interest, and why?
+[12:48:47] TRANSCRIPTION:
+
+============================================================
+AI: Hello, welcome! Let's start with a foundational question. Can you explain the difference between artificial intelligence, machine learning, and deep learning?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: []
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00 - 00:02",
+    "description": "Low hum/buzzing sound"
+  },
+  {
+    "timestamp": "00:03 - 00:25",
+    "description": "Machine-generated voice speaking in Spanish: Claro que puedo explicarlo. La inteligencia artificial es el objetivo general de crear máquinas que puedan demostrar inteligencia. El aprendizaje automático es un subcampo que permite a las máquinas aprender sin ser explícitamente programadas, y el aprendizaje profundo es una técnica dentro del aprendizaje automático que utiliza redes neuronales profundas. ¿Tienes alguna otra pregunta?"
+  },
+  {
+    "timestamp": "00:25 - 00:27",
+    "description": "Loud static/feedback audio artifact"
+  }
+]
+============================================================
+
+[12:50:58] GEMINI:
+That's great to hear! Your enthusiasm for AI and ML, especially with experience in NLP and computer vision, sounds promising.
+
+Could you tell me a bit more about what specifically interests you in this AI/ML intern position?
+[12:51:03] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Alex",
+    "timestamp": "00:00",
+    "text": "Un entusiasta de la inteligencia artificial y el aprendizaje automático. Mi formación en estas áreas, junto con mi experiencia en proyectos de PNL y visión por computadora, me han preparado para afrontar nuevos desafíos. ¿Qué más desean saber sobre mí?"
+  }
+]
+============================================================
+

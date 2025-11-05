@@ -1,0 +1,94 @@
+[12:53:16] GEMINI:
+Hello there! Thank you for the introduction. Let's dive right in. Could you tell me a bit about what specifically interests you in an AI/ML internship role?
+[12:53:24] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: []
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00 - 00:19",
+    "description": "The entire audio segment consists of clear, pre-recorded background speech in Spanish, identifying as 'Anoush Kumar' and detailing experience in AI, machine learning, NLP, and computer vision. No primary speakers (Alex or Candidate) were identified in this segment. Transcribed text: 'Hola, soy Anoush Kumar. Estoy en el campo de la inteligencia artificial y el aprendizaje automático. Mi formación en estas áreas, junto con mi experiencia en proyectos de PNL y visión por computadora, me ha preparado para afrontar nuevos desafíos. ¿Quieres saber sobre mí?'"
+  }
+]
+============================================================
+
+[12:53:55] GEMINI:
+That's great to hear about your interest! Before we dive into specific projects, could you please tell me a bit about yourself and why you're interested in an AI/ML internship with us?
+[12:54:03] TRANSCRIPTION:
+
+============================================================
+AI: Hello there! Thank you for the introduction. Let's dive right in. Could you tell me a bit about what specifically interests you in an AI/ML internship role?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: []
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00-00:03",
+    "description": "Loud dog barking and general ambient noise."
+  },
+  {
+    "timestamp": "00:03-00:15",
+    "description": "Pre-recorded, synthetic Spanish speech about an internship, AI/ML projects, natural language processing, and computer vision: 'Hola, me interesa mucho esta pasantía porque me permitirá aplicar mis conocimientos de IA/ML. El proyecto es desafiante, como los de procesamiento de lenguaje natural y visión por computadora. ¿Podrían darme más detalles sobre algún proyecto en particular?'"
+  },
+  {
+    "timestamp": "00:15-00:20",
+    "description": "Continued dog barking and other ambient noise."
+  }
+]
+============================================================
+
+[12:54:44] GEMINI:
+Thank you for that introduction. It sounds like you have a strong interest in practical applications of AI/ML. Could you tell me about a specific project you've worked on, perhaps something related to natural language processing or computer vision, that you're particularly proud of?
+[12:54:56] TRANSCRIPTION:
+
+============================================================
+AI: That's great to hear about your interest! Before we dive into specific projects, could you please tell me a bit about yourself and why you're interested in an AI/ML internship with us?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  ¡Hola, soy una recién graduado con especialización en ciencia de datos y aprendizaje automático! Me interesa mucho esta pasantía en su empresa por la oportunidad de aplicar mis conocimientos en proyectos desde el sector, como los relacionados con el procesamiento de lenguaje natural y la visión computadora.
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "text": "¡Hola, soy una recién graduado con especialización en ciencia de datos y aprendizaje automático! Me interesa mucho esta pasantía en su empresa por la oportunidad de aplicar mis conocimientos en proyectos desde el sector, como los relacionados con el procesamiento de lenguaje natural y la visión computadora."
+  },
+  {
+    "speaker": "Alex",
+    "text": "¿Podría darme más detalles sobre algún proyecto en particular?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Heavy background noise including dog barking and indistinct background chatter present at the beginning and intermittently throughout the recording."
+  }
+]
+============================================================
+
+[12:57:14] GEMINI:
+Thank you for the introduction. It's great to hear about your enthusiasm for AI and ML, and your experience with NLP and computer vision.
+
+Could you tell me more about a specific project you've worked on in either NLP or computer vision that you found particularly challenging or rewarding?
+[12:57:21] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: []
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Continuous background humming/whirring noise present throughout the entire audio segment, including during interviewer's prompt and candidate's speech."
+  }
+]
+============================================================
+

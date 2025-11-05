@@ -1,0 +1,521 @@
+[12:14:52] GEMINI:
+Thank you for that introduction. It sounds like you have a strong background and passion for AI and ML.
+
+Could you elaborate on one of your NLP or computer vision projects that you found particularly challenging or rewarding? What was the problem you were trying to solve, and what was your specific contribution?
+[12:15:05] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  Un candidato con gran interés en la inteligencia artificial y el aprendizaje automático. Mi formación en estas áreas, junto con mi experiencia en proyectos de PNL y visión por computadora, me ha preparado para trabajar en soluciones innovadoras. Estoy emocionado por la oportunidad de aplicar mis habilidades en esta pasantía. ¿Qué más desean saber?
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "timestamp": "00:08",
+    "text": "Un candidato con gran interés en la inteligencia artificial y el aprendizaje automático. Mi formación en estas áreas, junto con mi experiencia en proyectos de PNL y visión por computadora, me ha preparado para trabajar en soluciones innovadoras. Estoy emocionado por la oportunidad de aplicar mis habilidades en esta pasantía. ¿Qué más desean saber?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00-00:08",
+    "description": "Initial silence/background noise"
+  },
+  {
+    "timestamp": "00:30-00:34",
+    "description": "Silence/background noise"
+  },
+  {
+    "timestamp": "00:34",
+    "description": "Audio artifact (thud/tap sound)"
+  }
+]
+============================================================
+
+[12:15:42] GEMINI:
+Thank you for sharing that interesting project. Given the challenges you faced with data scarcity, could you elaborate on the specific strategies or techniques you employed to handle the limited data effectively for your Haitian Creole translation system?
+[12:16:02] TRANSCRIPTION:
+
+============================================================
+AI: Thank you for that introduction. It sounds like you have a strong background and passion for AI and ML.
+
+Could you elaborate on one of your NLP or computer vision projects that you found particularly challenging or rewarding? What was the problem you were trying to solve, and what was your specific contribution?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Alex",
+    "text": "Después el desarrollo de un sistema de traducción automática para criollo haitiano, con un reto interesante debido a la escasez de datos disponibles y a las particularidades lingüísticas. ¿Qué aspectos específicos les gustaría conocer?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "General background noise present at the beginning and end of the audio segment."
+  }
+]
+============================================================
+
+[12:20:00] GEMINI:
+Thanks for the introduction. It's great to hear about your interest in AI/ML and the projects you've worked on.
+
+Could you elaborate a bit more on one of those projects, perhaps the speech-to-text model? What was your specific role, and what challenges did you face?
+[12:20:29] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  Hello, my name is. I am from Bihar. Recently, I've completed my bachelor's degree with a CGPA of 8.34, like. And right now I am really interested in the AI/ML field. So, I've also done a couple of projects like 'No Scenario' and 'Speech to Text' model, like. In front, I have used Webflow, uh, skills like that. And in my past experience, I think I have a little bit of knowledge to understand what's going on in the AI/ML field. So, I think that's all from my side.
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "timestamp": "00:04",
+    "text": "Hello, my name is. I am from Bihar. Recently, I've completed my bachelor's degree with a CGPA of 8.34, like. And right now I am really interested in the AI/ML field. So, I've also done a couple of projects like 'No Scenario' and 'Speech to Text' model, like. In front, I have used Webflow, uh, skills like that. And in my past experience, I think I have a little bit of knowledge to understand what's going on in the AI/ML field. So, I think that's all from my side."
+  }
+]
+============================================================
+
+[12:20:55] GEMINI:
+Okay, I understand. It sounds like you've encountered some interesting challenges with neural networks.
+
+To start, could you please tell me a bit about yourself and what specifically attracted you to the AI/ML field?
+[12:21:06] TRANSCRIPTION:
+
+============================================================
+AI: Thanks for the introduction. It's great to hear about your interest in AI/ML and the projects you've worked on.
+
+Could you elaborate a bit more on one of those projects, perhaps the speech-to-text model? What was your specific role, and what challenges did you face?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  So, in Notion AI agent, I mean, the main challenge I faced is that Notion AI agent, like it, you have to define a lot of your Notion notes. So that was my biggest hurdle, like you can say, but I have overcome that within a day, I think so. Yeah, that's from my side.
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "timestamp": "00:03 - 00:27",
+    "text": "So, in Notion AI agent, I mean, the main challenge I faced is that Notion AI agent, like it, you have to define a lot of your Notion notes. So that was my biggest hurdle, like you can say, but I have overcome that within a day, I think so. Yeah, that's from my side."
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00 - 00:03",
+    "description": "Continuous humming/machinery noise"
+  },
+  {
+    "timestamp": "00:08 - 00:09",
+    "description": "Subtle clicking sound during speech"
+  },
+  {
+    "timestamp": "00:13",
+    "description": "Distinct thumping noise"
+  },
+  {
+    "timestamp": "00:14 - 00:27",
+    "description": "Continuous humming/machinery noise"
+  }
+]
+============================================================
+
+[12:21:39] GEMINI:
+Okay, I understand. Thank you for your time today.
+[12:24:10] GEMINI:
+Welcome! It's great to have you here today. Let's start by having you tell me a little bit about yourself and what specifically interests you about an AI/ML internship.
+[12:24:18] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: []
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "0:00-0:06",
+    "description": "Loud, persistent electrical hum/buzz dominates the entire audio segment. Very faint, muffled, and unintelligible speech is intermittently present but completely obscured by the noise."
+  }
+]
+============================================================
+
+[12:25:02] GEMINI:
+Hello! Welcome to our interview. To start, could you please tell me a bit about yourself and what specifically interests you about an AI/ML internship?
+[12:25:11] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: []
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Heavy background noise present throughout the clip. Unclear speech resembling 'Hello Google करना' is discernible amidst the noise, speaker unknown."
+  }
+]
+============================================================
+
+[12:25:59] GEMINI:
+Hello there! Welcome. Let's start with a brief introduction. Could you please tell me a bit about yourself and what specifically interests you in an AI/ML internship?
+[12:26:02] TRANSCRIPTION:
+
+============================================================
+AI: Hello! Welcome to our interview. To start, could you please tell me a bit about yourself and what specifically interests you about an AI/ML internship?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Alex",
+    "timestamp": "00:13",
+    "text": "Okay, start answering the question."
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00 - 00:13",
+    "description": "Heavy static and electronic noise throughout."
+  },
+  {
+    "timestamp": "00:16 - 00:35",
+    "description": "Persistent static and humming noise."
+  },
+  {
+    "timestamp": "00:35",
+    "description": "Click sound."
+  }
+]
+============================================================
+
+[12:27:26] GEMINI:
+Hello! Yes, I can hear you clearly. Let's begin. To start, could you please tell me a bit about yourself and why you're interested in an AI/ML internship?
+[12:27:35] TRANSCRIPTION:
+
+============================================================
+AI: Initial greeting/question
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  Hello Google, can you hear me?
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "text": "Hello Google, can you hear me?"
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Background noise present at the beginning of the audio segment."
+  }
+]
+============================================================
+
+[12:28:46] GEMINI:
+Thanks for the introduction. It sounds like you've built a solid foundation. You mentioned a few projects, like a loan application project and an image recognition project. Could you elaborate on one of those, perhaps describing the problem you were trying to solve and your role in the project?
+[12:29:13] TRANSCRIPTION:
+
+============================================================
+AI: Hello! Yes, I can hear you clearly. Let's begin. To start, could you please tell me a bit about yourself and why you're interested in an AI/ML internship?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  सो My name is Amit Kumar. I am from Bihar. And recently I have completed my Bachelor degree from Chandigarh City. And in those times, I have learned a couple of skills like Python, fundamentals of Machine Learning, AI/ML, like what are different types of models present in ML field. And yeah, like the deep models, Linear Regression, scikit-learn. And I also got a couple of projects like motion AI project and converting a mobile project. So these are the projects I mainly worked on. And I also maintain my GitHub profile. Like all the regular, this is I usually post my projects on GitHub so that I look active in this field. And I think that's all from my side.
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "text": "सो My name is Amit Kumar. I am from Bihar. And recently I have completed my Bachelor degree from Chandigarh City. And in those times, I have learned a couple of skills like Python, fundamentals of Machine Learning, AI/ML, like what are different types of models present in ML field. And yeah, like the deep models, Linear Regression, scikit-learn. And I also got a couple of projects like motion AI project and converting a mobile project. So these are the projects I mainly worked on. And I also maintain my GitHub profile. Like all the regular, this is I usually post my projects on GitHub so that I look active in this field. And I think that's all from my side."
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00",
+    "description": "Initial burst of background noise/audio artifact."
+  }
+]
+============================================================
+
+[12:30:56] GEMINI:
+That sounds like a very interesting project. Could you tell me more about how you approached incorporating emotional understanding into your AI assistant?
+[12:31:14] TRANSCRIPTION:
+
+============================================================
+AI: Thanks for the introduction. It sounds like you've built a solid foundation. You mentioned a few projects, like a loan application project and an image recognition project. Could you elaborate on one of those, perhaps describing the problem you were trying to solve and your role in the project?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  So, in both of my projects, like, I mean, whatever project I did on Notion AI agent, उसमें मेरा main focus था कि मैं एक personal server बनाऊँ।
+  और जो मेरे private notes, जो मेरे laptop पे present हैं,
+  उस content का access उस agent के पास होता, LLM model के पास होता और वो मुझे generation का response करे तो जैसे इस तरह से feel हो कि मैं अपने... मैं अपने notes से बात कर रहा हूँ।
+  Like, that was the idea, that like I have all the knowledge I have put in my private notes. So,
+  that was the main goal, idea, and
+  after that, voice characteristics related, like,
+  उसमें एक main focus, main focus नहीं था, उसका main idea था कि जैसे मैं एक, जैसे हम लोग एक human से बात करते हैं, उसमें एक
+  emotions रहे।
+  जैसे अगर हम गुस्से में बात कर रहे हैं तो गुस्सा show हो रहा है या हँस के बात कर रहे हैं, हँसी show हो रहा है।
+  एक, और उसमें एक like buddy bot, मेरा virtual assistant जो है, जो हम जिससे बात कर सकें, एक friend है, इस तरह का मेरा एक idea था।
+  तो मैंने उसके basis पे project को complete किया।
+  Uh, maybe it's not a production-level, but that was a very good learning curve for me. Like, I have learned so many things in that project like Notion AI agent.
+  So,
+  I learned how architecture like
+  I mean, कैसे काम करता है, उसमें कितने सारे fields हैं, कितने सारे steps हैं, उसको complete करना, कैसे हम उसको fast बना सकते हैं।
+  I think that's... that was the idea of working with that project.
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "text": "So, in both of my projects, like, I mean, whatever project I did on Notion AI agent, उसमें मेरा main focus था कि मैं एक personal server बनाऊँ।"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "और जो मेरे private notes, जो मेरे laptop पे present हैं,"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "उस content का access उस agent के पास होता, LLM model के पास होता और वो मुझे generation का response करे तो जैसे इस तरह से feel हो कि मैं अपने... मैं अपने notes से बात कर रहा हूँ।"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "Like, that was the idea, that like I have all the knowledge I have put in my private notes. So,"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "that was the main goal, idea, and"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "after that, voice characteristics related, like,"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "उसमें एक main focus, main focus नहीं था, उसका main idea था कि जैसे मैं एक, जैसे हम लोग एक human से बात करते हैं, उसमें एक"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "emotions रहे।"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "जैसे अगर हम गुस्से में बात कर रहे हैं तो गुस्सा show हो रहा है या हँस के बात कर रहे हैं, हँसी show हो रहा है।"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "एक, और उसमें एक like buddy bot, मेरा virtual assistant जो है, जो हम जिससे बात कर सकें, एक friend है, इस तरह का मेरा एक idea था।"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "तो मैंने उसके basis पे project को complete किया।"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "Uh, maybe it's not a production-level, but that was a very good learning curve for me. Like, I have learned so many things in that project like Notion AI agent."
+  },
+  {
+    "speaker": "Candidate",
+    "text": "So,"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "I learned how architecture like"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "I mean, कैसे काम करता है, उसमें कितने सारे fields हैं, कितने सारे steps हैं, उसको complete करना, कैसे हम उसको fast बना सकते हैं।"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "I think that's... that was the idea of working with that project."
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "0:00",
+    "description": "Consistent background hum/fan noise throughout the audio."
+  }
+]
+============================================================
+
+[12:32:06] GEMINI:
+That's an interesting approach to enhance user interaction. How do you evaluate the effectiveness of your model in making users feel comfortable and eager to talk?
+[12:32:31] TRANSCRIPTION:
+
+============================================================
+AI: That sounds like a very interesting project. Could you tell me more about how you approached incorporating emotional understanding into your AI assistant?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  सो in a nutshell I have to say, I have used a like, what we say, sentiment analysis transformer like that was present in Hugging Face, which I refer very easily. And I implemented that concept in my LLM model. So from sentiment analysis, I extracted what emotion it is trying to convey to the LLM model. So I extracted that, and feedback emotion which I extracted are fed back to my LLM model, and those are fed my LLM model to display in this way that the user feels comfortable and is eager to talk to you. Like, there is a I have used in my emotion detection.
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "text": "सो in a nutshell I have to say, I have used a like, what we say, sentiment analysis transformer like that was present in Hugging Face, which I refer very easily. And I implemented that concept in my LLM model. So from sentiment analysis, I extracted what emotion it is trying to convey to the LLM model. So I extracted that, and feedback emotion which I extracted are fed back to my LLM model, and those are fed my LLM model to display in this way that the user feels comfortable and is eager to talk to you. Like, there is a I have used in my emotion detection."
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "00:00",
+    "description": "Background noise present"
+  },
+  {
+    "timestamp": "00:01",
+    "description": "Background noise present"
+  },
+  {
+    "timestamp": "00:02",
+    "description": "Background noise present"
+  }
+]
+============================================================
+
+[12:33:35] GEMINI:
+Thank you for that overview. Could you tell me what specific AI/ML models or algorithms you used in this project?
+[12:33:59] TRANSCRIPTION:
+
+============================================================
+AI: That's an interesting approach to enhance user interaction. How do you evaluate the effectiveness of your model in making users feel comfortable and eager to talk?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  Uh, so, I have to say, it was not production-level. So it... it was not like, uh, a complex process, you can say, like, it can make mistakes. So, but in my case, I have used like not so many conditions, but a simple form that, like, the user... user is like... So, my response, I respond in a very warmly and calmly that makes the user a little bit like happy or like emotionally, an emotional matrix. So, that was a good idea, and I had many different... a couple of different types of rule-based rules for the elements. So, it should be more ready. And, but it was just a package, so I haven't taken too much consideration for this. So, I think that's all.
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "text": "Uh, so, I have to say, it was not production-level. So it... it was not like, uh, a complex process, you can say, like, it can make mistakes. So, but in my case, I have used like not so many conditions, but a simple form that, like, the user... user is like... So, my response, I respond in a very warmly and calmly that makes the user a little bit like happy or like emotionally, an emotional matrix. So, that was a good idea, and I had many different... a couple of different types of rule-based rules for the elements. So, it should be more ready. And, but it was just a package, so I haven't taken too much consideration for this. So, I think that's all."
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Background noise/static at the beginning of the utterance."
+  }
+]
+============================================================
+
+[12:35:11] GEMINI:
+That sounds like a very interesting project. Could you elaborate a bit more on why you chose to use a hybrid approach with both BM25 and semantic search? What were the advantages you saw in combining them?
+[12:35:42] TRANSCRIPTION:
+
+============================================================
+AI: Thank you for that overview. Could you tell me what specific AI/ML models or algorithms you used in this project?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  So, one of the models that I have used to build is the LLM model, where I like... मैंने अपने text को पहले encode किया vector form में। फिर उसे मैंने उसको store किया। फिर उसको उसमें मैंने semantic search यूज़ करता हूँ, तो उसमें मैंने hybrid approach यूज़ किया जैसे BM25, as well as semantic score search and... और मैंने उसको multiple चीज़ पर add किया, जैसे कि जो user query कर रहा है, जैसे मैंने query किया कि ये 'what to do' क्या है, तो वो मुझे निकाल के दो। तो मैं क्या करूँगा? तो मैंने उस जो user का query है, उसको फिर से मैंने vector embedding उसको किया। और semantic search और BM25 hybrid मैंने apply किया, जिससे मैं अपने database को अपने database से जो भी relevant context है, उसको निकालता हूँ। और उसको निकाल के मैं उसे pass it to my LLM model and based on that context, the LLM model will give me the whatever it suits better based on the context I have given, given the initial tag, you can say that. So, that was the, you can say, overall idea around that project.
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "timestamp": "0:02-1:16",
+    "text": "So, one of the models that I have used to build is the LLM model, where I like... मैंने अपने text को पहले encode किया vector form में। फिर उसे मैंने उसको store किया। फिर उसको उसमें मैंने semantic search यूज़ करता हूँ, तो उसमें मैंने hybrid approach यूज़ किया जैसे BM25, as well as semantic score search and... और मैंने उसको multiple चीज़ पर add किया, जैसे कि जो user query कर रहा है, जैसे मैंने query किया कि ये 'what to do' क्या है, तो वो मुझे निकाल के दो। तो मैं क्या करूँगा? तो मैंने उस जो user का query है, उसको फिर से मैंने vector embedding उसको किया। और semantic search और BM25 hybrid मैंने apply किया, जिससे मैं अपने database को अपने database से जो भी relevant context है, उसको निकालता हूँ। और उसको निकाल के मैं उसे pass it to my LLM model and based on that context, the LLM model will give me the whatever it suits better based on the context I have given, given the initial tag, you can say that. So, that was the, you can say, overall idea around that project."
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "0:00-0:02",
+    "description": "Background hum/static."
+  }
+]
+============================================================
+
+[12:36:38] GEMINI:
+That's a clear explanation. You mentioned addressing data leakage and performance bottlenecks. Could you elaborate on how your chosen approach specifically tackled those issues?
+[12:37:06] TRANSCRIPTION:
+
+============================================================
+AI: That sounds like a very interesting project. Could you elaborate a bit more on why you chose to use a hybrid approach with both BM25 and semantic search? What were the advantages you saw in combining them?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+  So, I had to recognize that it is context which is not more aligned with the user query.
+  Without heavy approach, it was just beginning like a five-year. It's simple, it was in, uh, you can say, indicative context like.
+  मेरा नाम Pushkar और you can call me Anish Kumar.
+  And both of the sentences convey the same thing. Like, मेरा नाम ही Anish है. This is the same overall idea, like, you see.
+  So, I had to overcome that kind of problems with heavy approach.
+  But with heavy approach, it becomes a data annotation also. It slows down my work and performance.
+  So, I have come with methods to overcome that too. So that was the idea I used.
+
+RESPONSE: [
+  {
+    "speaker": "Candidate",
+    "timestamp": "0:02-0:11",
+    "text": "So, I had to recognize that it is context which is not more aligned with the user query."
+  },
+  {
+    "speaker": "Candidate",
+    "timestamp": "0:11-0:22",
+    "text": "Without heavy approach, it was just beginning like a five-year. It's simple, it was in, uh, you can say, indicative context like."
+  },
+  {
+    "speaker": "Candidate",
+    "timestamp": "0:22-0:28",
+    "text": "मेरा नाम Pushkar और you can call me Anish Kumar."
+  },
+  {
+    "speaker": "Candidate",
+    "timestamp": "0:28-0:38",
+    "text": "And both of the sentences convey the same thing. Like, मेरा नाम ही Anish है. This is the same overall idea, like, you see."
+  },
+  {
+    "speaker": "Candidate",
+    "timestamp": "0:38-0:44",
+    "text": "So, I had to overcome that kind of problems with heavy approach."
+  },
+  {
+    "speaker": "Candidate",
+    "timestamp": "0:44-0:53",
+    "text": "But with heavy approach, it becomes a data annotation also. It slows down my work and performance."
+  },
+  {
+    "speaker": "Candidate",
+    "timestamp": "0:53-0:59",
+    "text": "So, I have come with methods to overcome that too. So that was the idea I used."
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "timestamp": "0:00-0:02",
+    "description": "Background noise present at the beginning of the audio."
+  },
+  {
+    "timestamp": "0:59-1:01",
+    "description": "Background noise present at the end of the audio."
+  }
+]
+============================================================
+
+[12:37:10] GEMINI:
+Understood. Thank you for your time and participation. We appreciate you taking the time to speak with us today. This concludes your interview. Have a good day.
+[12:37:17] TRANSCRIPTION:
+
+============================================================
+AI: That's a clear explanation. You mentioned addressing data leakage and performance bottlenecks. Could you elaborate on how your chosen approach specifically tackled those issues?
+------------------------------------------------------------
+CANDIDATE (transcribed):
+
+RESPONSE: [
+  {
+    "speaker": "Alex",
+    "text": "Okay, goodbye. Sorry, but I'm out of time right now. So I won't be able to continue this interview. So, could you please end this interview here."
+  },
+  {
+    "speaker": "Alex",
+    "text": "Thanks for the time."
+  }
+]
+
+BACKGROUND RESPONSE: [
+  {
+    "description": "Loud buzzing/static noise present throughout the recording, particularly prominent at the beginning."
+  }
+]
+============================================================
+

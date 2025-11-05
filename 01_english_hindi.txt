@@ -1,0 +1,24 @@
+    ================================================================================
+    INTERVIEW TRANSCRIPT
+    Date: 2025-11-05 16:48:44
+    ================================================================================
+
+    [16:41:23] INTERVIEWER:
+    Hello! Welcome to your AI/ML internship interview. I'm excited to learn more about you today. Let's begin with a quick introduction. Could you please tell me about yourself and your background in AI and machine learning?
+
+    [16:43:39] INTERVIEWER:
+    Thank you for that overview. It sounds like you've been busy with some interesting projects. You mentioned the Notion AI agent as your most exemplary project. Could you tell me more about the challenges you faced while building it, and how you overcame them?
+
+    [16:45:29] INTERVIEWER:
+    That's a very practical challenge and a great learning experience. It's good to see how you overcame that specific API integration hurdle.
+
+    Can you elaborate a bit more on how you leveraged the LLM in this integration? What was its primary function or the specific task it performed with the Notion data?
+
+    [16:47:58] INTERVIEWER:
+    Thank you for that detailed explanation. So, if I understand correctly, your project leverages an LLM to help users efficiently retrieve specific information from a vast collection of personal notes, overcoming the challenge of manually searching through hundreds or thousands of entries. That's a very practical application.
+
+    Could you elaborate a bit more on how you integrated the LLM into your Notion AI agent? What specific techniques or tools did you use to make it understand and respond to user queries based on their private notes?
+
+    [16:48:26] INTERVIEWER:
+    I understand. It sounds like now isn't a good time for you. Could you please let me know when you might be available for this interview?
+

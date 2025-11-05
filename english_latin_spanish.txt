@@ -1,0 +1,51 @@
+================================================================================
+INTERVIEW TRANSCRIPT
+Date: 2025-11-05 17:01:13
+================================================================================
+
+Q1. [16:55:32] INTERVIEWER:
+Hello! Welcome to your AI/ML internship interview. I'm excited to learn more about you today. Let's begin with a quick introduction. Could you please tell me about yourself and your background in AI and machine learning?
+
+A1. [16:57:06] CANDIDATE:
+First of all, thank you for the opportunity you have given me today. And for my introduction, मेरा नाम Hitesh Kumar है और last year मैंने अपनी Bachelor's degree complete किया University से. Also, मैंने college time और अभी तक मैंने बहुत सारे skills gain करने की कोशिश की है, जैसे Python, Machine Learning, Machine Learning concepts, EDA, AIML and skills like that. और based on these skills, I have also worked on a couple of projects like Notion AI Agent, voice conversational agent. And for Machine Learning, I have worked on predicting survival rate of Titanic dataset. And yeah, मैंने इसी तरह के और बहुत सारे project किए and based on the skills I have learned from the past years.
+
+--------------------------------------------------------------------------------
+
+Q2. [16:56:58] INTERVIEWER:
+Thank you for the introduction. It sounds like you have a solid foundation in Python and various AI/ML concepts, along with some practical project experience.
+
+Regarding your Titanic survival prediction project, could you elaborate on the specific machine learning model you used and why you chose that particular algorithm for the task?
+
+A2. [16:58:53] CANDIDATE:
+तो मैंने machine learning में बहुत सारे algorithm पढ़ने की कोशिश किया है जैसे linear regression, logistic regression और SVM, bias algorithm. और अ I've also learned अ different types of machine learning types like supervised learning, unsupervised learning, reinforcement learning. basically वो तीनों क्या है, किस काम में आते हैं। तो ये सब चीज मैंने पढ़ने की बहुत कोशिश की है और मैंने ट्राई किया है कि इसको मैं अपने day to day life के project में यूज़ कर पाऊं। जैसे कि मैंने एक एक machine project बनाया था, तो उसमें मैंने बहुत सारी चीजें सीखी कि API को कैसे integrate करते हैं, जो मुझे आज बहुत help करता है। अ how to think like while before building the project, so कि क्या-क्या steps लेने पड़ते हैं, किस तरह की प्रॉब्लम आ सकती है, ऐसा मैंने कोशिश किया कि मैं अपने से complete कर पाऊं, तो इस तरह से मैंने बहुत सारी चीजें सीखने की कोशिश किया अ and till today.
+
+--------------------------------------------------------------------------------
+
+Q3. [16:58:42] INTERVIEWER:
+Thank you for sharing your experience and what you've learned in machine learning. It sounds like you have a good grasp of the fundamentals and practical application.
+
+Could you tell me about a specific AI/ML project you've worked on that you are most proud of? What was your role, and what were some of the key challenges you faced?
+
+A3. [16:59:40] CANDIDATE:
+सर आई थिंक सर, मैं वो पूछ तो रहा था, लेकिन कौन गाड़ी है क्योंकि मेरे पास time नहीं है। तो क्या मैं अपने interview को यहीं पे खत्म कर सकता हूं? That would be very helpful.
+
+--------------------------------------------------------------------------------
+
+Q4. [16:59:26] INTERVIEWER:
+I understand you're pressed for time. However, to make the most of our remaining minutes, could you quickly tell me about a recent AI/ML project that caught your attention and why?
+
+A4. [17:00:53] CANDIDATE:
+So the most recent project at Cotma I was a uh AI interview where I I have shown my friend giving an interview with the AI, where AI was asking in-depth question whatever the whatever my friend was answering like if he was talking about the machine learning concept uh like linear regression. So the AI went in-depth in linear regression and asked the question from that field. And whenever he asked talked about his project, so the AI went went in that in that project and asked the question based on that project. How you thought about that project? What was the uh thought process before building that project? How did you do that? What are the challenges you faced? So that was like that caught me very interesting and yeah, that was the idea behind that.
+
+--------------------------------------------------------------------------------
+
+Q5. [17:00:49] INTERVIEWER:
+That sounds like a very interesting project! It's great to hear you're working on AI-powered interview systems.
+
+Now, let's start with a foundational question. Can you explain the difference between supervised, unsupervised, and reinforcement learning?
+
+A5. CANDIDATE:
+[Transcription in progress...]
+
+--------------------------------------------------------------------------------
+

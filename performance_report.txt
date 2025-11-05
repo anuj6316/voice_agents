@@ -1,0 +1,118 @@
+================================================================================
+SESSION: 20251105_113205
+Timestamp: 2025-11-05 11:32:10
+================================================================================
+
+📁 AUDIO INFORMATION:
+  File: audio_20251105_113205.wav
+  Duration: 4.04 seconds
+  File Size: 348.04 KB
+  Save Time: 3.04 ms
+
+📝 TRANSCRIPTION PERFORMANCE:
+  Status: ✓ Success
+  Duration: 4.157 seconds
+  Processing Speed: 0.97x realtime
+
+🤖 RESPONSE GENERATION PERFORMANCE:
+  Status: ✓ Success
+  Total Duration: 4.882 seconds
+  Time to First Chunk: 4880.48 ms
+  Number of Chunks: 1
+  Average Chunk Time: 4881.62 ms
+
+⚡ OVERALL PERFORMANCE:
+  Total Processing Time: 4.882 seconds
+  Parallel Processing: Yes (Transcription ran in background)
+  Processing Efficiency: 0.83x realtime
+
+================================================================================
+
+================================================================================
+SESSION: 20251105_113222
+Timestamp: 2025-11-05 11:32:26
+================================================================================
+
+📁 AUDIO INFORMATION:
+  File: audio_20251105_113222.wav
+  Duration: 12.28 seconds
+  File Size: 1058.04 KB
+  Save Time: 18.85 ms
+
+📝 TRANSCRIPTION PERFORMANCE:
+  Status: ✗ Failed
+
+🤖 RESPONSE GENERATION PERFORMANCE:
+  Status: ✓ Success
+  Total Duration: 4.021 seconds
+  Time to First Chunk: 3792.27 ms
+  Number of Chunks: 3
+  Average Chunk Time: 1340.19 ms
+
+⚡ OVERALL PERFORMANCE:
+  Total Processing Time: 4.021 seconds
+  Parallel Processing: N/A
+  Processing Efficiency: 3.06x realtime
+
+================================================================================
+
+================================================================================
+SESSION: 20251105_113243
+Timestamp: 2025-11-05 11:32:50
+================================================================================
+
+📁 AUDIO INFORMATION:
+  File: audio_20251105_113243.wav
+  Duration: 16.70 seconds
+  File Size: 1438.04 KB
+  Save Time: 11.02 ms
+
+📝 TRANSCRIPTION PERFORMANCE:
+  Status: ✓ Success
+  Duration: 3.276 seconds
+  Processing Speed: 5.10x realtime
+
+🤖 RESPONSE GENERATION PERFORMANCE:
+  Status: ✓ Success
+  Total Duration: 7.252 seconds
+  Time to First Chunk: 7165.49 ms
+  Number of Chunks: 2
+  Average Chunk Time: 3625.86 ms
+
+⚡ OVERALL PERFORMANCE:
+  Total Processing Time: 7.252 seconds
+  Parallel Processing: Yes (Transcription ran in background)
+  Processing Efficiency: 2.30x realtime
+
+================================================================================
+
+================================================================================
+SESSION: 20251105_113311
+Timestamp: 2025-11-05 11:33:16
+================================================================================
+
+📁 AUDIO INFORMATION:
+  File: audio_20251105_113311.wav
+  Duration: 20.99 seconds
+  File Size: 1808.04 KB
+  Save Time: 10.72 ms
+
+📝 TRANSCRIPTION PERFORMANCE:
+  Status: ✓ Success
+  Duration: 4.009 seconds
+  Processing Speed: 5.24x realtime
+
+🤖 RESPONSE GENERATION PERFORMANCE:
+  Status: ✓ Success
+  Total Duration: 4.522 seconds
+  Time to First Chunk: 4519.49 ms
+  Number of Chunks: 2
+  Average Chunk Time: 2261.22 ms
+
+⚡ OVERALL PERFORMANCE:
+  Total Processing Time: 4.522 seconds
+  Parallel Processing: Yes (Transcription ran in background)
+  Processing Efficiency: 4.64x realtime
+
+================================================================================
+
